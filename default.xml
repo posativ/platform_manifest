@@ -6,7 +6,7 @@
            review="android-review.googlesource.com" />
   <remote  name="github"
            fetch="https://github.com/"
-           revision="refs/heads/marshmallow-mr2-release" />
+           revision="refs/tags/MOB30Z.2016.08.05.15.15.34" />
   <default revision="refs/tags/android-6.0.1_r61"
            remote="aosp"
            sync-c="true"
